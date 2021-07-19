@@ -1,7 +1,7 @@
 {
-  "name": "code",
+  "name": "zce-pages1",
   "version": "1.0.0",
-  "description": "",
+  "description": "gulp cli test",
   "main": "lib/index.js",
   "bin": "bin/zce-pages1.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "build": "gulp build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "huaxin",
+  "author": "huaxk",
   "license": "ISC",
   "repository": {
     "type": "git",
